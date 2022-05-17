@@ -7,7 +7,7 @@ def test_ad():
 	
 
 def subtract(a, b):
-	return a + b # <--- fix this in step 7
+	return a - b # <--- fix this in step 7
 	
 	
 # uncomment the follow test in step 5
