@@ -12,4 +12,4 @@ def subtract(a, b):
 	
 # uncomment the follow test in step 5
 def test_subtract():
-	assert subtruct(2, 3) == -1
+	assert subtract(2, 3) == -1
