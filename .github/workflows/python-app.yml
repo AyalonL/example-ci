@@ -37,3 +37,12 @@ jobs:
     - name: Test with pytest
       run: |
         pytest example.py
+        pytest design1.py
+        pytest design2.py
+        pytest design3.py
+        pytest design4.py
+        pytest design5.py
+        pytest design6.py
+        pytest design7.py
+        uniq < repetitive-text.txt
+        
